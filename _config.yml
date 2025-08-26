@@ -22,9 +22,9 @@ title: Learn, Build, Break, Repeat
 email: atomcocode@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Something I want to remember.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  atomcocode
+baseurl: "https://atomco175.github.io/myblog" # the subpath of your site, e.g. /blog
+url: "https://atomco175.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: atomcocode
 
 markdown: kramdown
 highlighter: rouge
